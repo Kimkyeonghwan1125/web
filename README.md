@@ -9,4 +9,4 @@
 ![Post_view](https://github.com/Kimkyeonghwan1125/web/assets/97688495/ab1eba31-40d2-408f-8b22-f909b63576e1)
 
 # Git 
-https://github.com/Kimkyeonghwan1125/web/new/main?readme=1
+https://github.com/Kimkyeonghwan1125/web/
