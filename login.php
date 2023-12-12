@@ -18,7 +18,7 @@ $result = $stmt->get_result();
 if ($result->num_rows > 0) {
     $row = $result->fetch_assoc();
     if ($password === $row['password']) { // 단순 문자열 비교
-        header("Location: success.php");
+        header("Location: posts_list.php");
         exit;
     } else {
         header("Location: index.html?error=incorrectpassword");
