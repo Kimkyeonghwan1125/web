@@ -1,4 +1,9 @@
 # web
+# 게시판 아이디어
+1. 게시물 작성
+2. 게시물 목록 확인
+3. 개별 게시글 확인
+
 # 게시판 목록
 ![Posts_list](https://github.com/Kimkyeonghwan1125/web/assets/97688495/b1ac5626-50a7-4e85-a0cb-980396de7695)
 
